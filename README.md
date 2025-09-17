@@ -21,7 +21,7 @@ By default, it scans your Downloads folder and creates:
 
 ## Supported formats
 
-- **Images**: JPG, PNG, GIF, BMP, TIFF, WEBP
+- **Images**: JPG, JPEG, PNG, BMP, TIFF, WEBP
 - **PDFs**: All types including password-protected ones
 
 ## Configuration
@@ -43,3 +43,4 @@ The script extracts meaningful content from your files and uses that to create o
 ---
 
 *First run takes a few minutes to download the image recognition model.*
+
